@@ -17,4 +17,8 @@ http://knowledge.storm.mg/
 https://www.storm.mg/subject-report
 
 社群平台
+<<<<<<< HEAD
 https://www.storm.mg/social-media
+=======
+https://www.storm.mg/social-media
+>>>>>>> 726921e0f36c8f4fa381359229e88e0106fc5ca8
