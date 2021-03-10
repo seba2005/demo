@@ -36,8 +36,7 @@ https://www.storm.mg/social-media
 app:
 
 ios app
-https://xd.adobe.com/view/d1df7094-b919-439f-ae1e-f0be673ebfd2-848c/grid
+
 
 android app
-https://xd.adobe.com/view/7211c309-2730-4668-bf6c-aeed92ed705a-2742/grid
 
